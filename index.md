@@ -23,6 +23,7 @@ My work aims to enable robots to naturally and safely follow people in complex r
 
 # 🔥 News
 - *2026.03*: 🥳🥳 [TPT-Bench](https://medlartea.github.io/tpt-bench/) is accepted by IJRR 2026.
+- *2026.02*: 🥳🥳 [Adap-RPF](https://adap-rpf.github.io/) is accepted by ICRA 2026.
 - *2025.10*: Check out our latest work, "[Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments](https://adap-rpf.github.io/)." This work adopts a *sample-evaluate-plan* paradigm with a multiple-objective cost function design and a prediction-aware MPPI controller, enabling smooth and safe person following in dynamic crowded environments.
 - *2025.09*: Check out our latest work, "[Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following](https://follow-bench.github.io/)." This work provides a comprehensive review of RPF scenarios, evaluation metrics, and planners, with a particular emphasis on requirements of safety and comfort.
 
@@ -44,7 +45,7 @@ My work aims to enable robots to naturally and safely follow people in complex r
 
 <u>Weixi Situ</u>, Hanjing Ye, Jianwei Peng, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
 
-Under Review (ICRA 2026)
+2026 IEEE International Conference on Robotics and Automation (ICRA)
 
 [[site](https://adap-rpf.github.io/)]
 </div>
