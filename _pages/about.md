@@ -21,6 +21,8 @@ I am a second-year Master's student at <a href="https://www.sustech.edu.cn/en/">
 
 My work aims to enable robots to naturally and safely follow people in complex real-world scenarios, addressing challenges such as occlusions, dynamic obstacles, and social navigation. I am passionate about developing practical solutions that bridge the gap between robotics research and real-world applications.
 
+**I am actively seeking PhD opportunities starting in Fall 2025/2026. Please feel free to reach out if you are interested in my research!**
+
 # 🔥 News
 - *2026.05*: [Follow-Bench](https://github.com/MedlarTea/follow-bench) is now released.
 - *2026.03*: 🥳🥳 [TPT-Bench](https://medlartea.github.io/tpt-bench/) is accepted by IJRR 2026.
