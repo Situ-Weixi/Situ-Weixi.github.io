@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weixi Situ"
-description              : "PhD Student at SUSTech, working on Robot Person Following"
+description              : "Master's student at SUSTech, working on Robot Person Following"
 repository               : "Situ-Weixi/Situ-Weixi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weixi Situ"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD Student at SUSTech"
+  bio              : "Master's student at SUSTech"
   location         : "Shenzhen, China"
   employer         :
   pubmed           :
