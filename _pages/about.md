@@ -48,7 +48,7 @@ My work aims to enable robots to naturally and safely follow people in complex r
 
 2026 IEEE International Conference on Robotics and Automation (ICRA)
 
-[[site](https://adap-rpf.github.io/)]
+[[arXiv](https://arxiv.org/abs/2510.11308)] [[site](https://adap-rpf.github.io/)]
 </div>
 </div>
 
@@ -90,9 +90,9 @@ Hanjing Ye, Yu Zhan, <u>Weixi Situ</u>, Guangcheng Chen, Jingwen Yu, Ziqi Zhao, 
 
 # 🎖 Honors and Awards
 - *2024, 2025*: First-Class Graduate Scholarship, Southern University of Science and Technology
-- *2024*: Outstanding Undergraduate Graduate (Top 1%), South China Agricultural University
+- *2024*: **Outstanding Undergraduate Graduate (Top 1%)**, South China Agricultural University
 - *2023*: National-Level College Student Innovation and Entrepreneurship Training Program (Project Leader)
 - *2023*: First Prize, Guangdong Provincial College Student Electronic Design Competition
 - *2022*: National-Level College Student Innovation and Entrepreneurship Training Program (Project Leader)
-- *2021, 2022*: National Scholarship (Top 1%), South China Agricultural University
+- *2021, 2022*: **National Scholarship (Top 1%)**, South China Agricultural University
 - *2021*: Second Prize (Top 5%), National College Student Electronic Design Competition
