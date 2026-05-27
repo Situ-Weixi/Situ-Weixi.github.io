@@ -22,8 +22,9 @@ I am a second-year Master's student at <a href="https://www.sustech.edu.cn/en/">
 My work aims to enable robots to naturally and safely follow people in complex real-world scenarios, addressing challenges such as occlusions, dynamic obstacles, and social navigation. I am passionate about developing practical solutions that bridge the gap between robotics research and real-world applications.
 
 # 🔥 News
-- *2024.11*: Our paper on Adap-RPF is submitted to ICRA 2026!
-- *2024.09*: Our paper on Follow-Bench is under review!
+- *2026.03*: 🥳🥳 [TPT-Bench](https://medlartea.github.io/tpt-bench/) is accepted by IJRR 2026.
+- *2025.10*: Check out our latest work, "[Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments](https://adap-rpf.github.io/)." This work adopts a *sample-evaluate-plan* paradigm with a multiple-objective cost function design and a prediction-aware MPPI controller, enabling smooth and safe person following in dynamic crowded environments.
+- *2025.09*: Check out our latest work, "[Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following](https://follow-bench.github.io/)." This work provides a comprehensive review of RPF scenarios, evaluation metrics, and planners, with a particular emphasis on requirements of safety and comfort.
 
 # 📝 Publications 
 
