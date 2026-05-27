@@ -96,3 +96,10 @@ Hanjing Ye, Yu Zhan, <u>Weixi Situ</u>, Guangcheng Chen, Jingwen Yu, Ziqi Zhao, 
 - *2022*: **National-Level College Student Innovation and Entrepreneurship Training Program (Project Leader)**
 - *2021, 2022*: **National Scholarship (Top 1%)**, South China Agricultural University
 - *2021*: Second Prize (Top 5%), **National College Student Electronic Design Competition**
+
+# 📖 Educations
+- *2024.09 - 2027.06 (Expected)*: **M.Eng. in Electronic Science and Technology**, Southern University of Science and Technology (SUSTech)
+  - Supervisor: Prof. Hong Zhang (IEEE Life Fellow, Canadian Academy of Engineering Fellow)
+  - GPA: 3.58/4.0, Average Score: 89.58/100, Rank: 21/165
+- *2020.09 - 2024.06*: **B.Eng. in Electronic Information Engineering**, South China Agricultural University
+  - GPA: 4.48/5.0, Average Score: 94.79/100, Rank: 1/193
